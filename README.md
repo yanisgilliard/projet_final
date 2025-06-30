@@ -10,6 +10,11 @@ Ce projet permet de :
 
 ## 🔧 Prérequis
 
+### Clone le répo
+```bash
+git clone https://github.com/yanisgilliard/projet_final
+```
+
 ### ✅ Logiciels et outils nécessaires
 
 - Python 3.8+
@@ -34,5 +39,5 @@ DATABASE_ID = "votre_database_id"
 
 ## 🚀 Lancer le script
 ```bash
-python main.py
+python scrap.py
 ```
