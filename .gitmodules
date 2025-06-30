@@ -1,0 +1,3 @@
+[submodule "dia"]
+	path = dia
+	url = https://github.com/nari-labs/dia
